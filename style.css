@@ -1,0 +1,33 @@
+body{
+    background-image: url("images.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+#Blue{
+    color: blue !important;
+    display: inline;
+}
+#Black{
+    color: black !important;
+    display: inline;
+}
+#Red{
+    color: red !important;
+    display: inline;
+}
+#Yellow{
+    color: yellow !important;
+    display: inline;
+}
+#Green{
+    color: green !important;
+    display: inline;
+}
+
+canvas{
+    background-color: white;
+    border: black;
+    border-width: 3px;
+    border-style: ridge;
+}
